@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
 
-public class App {
+public class ReadProperties {
   public static void main(String[] args) {
 
 	Properties prop = new Properties();
